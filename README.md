@@ -1,6 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&multiline=true&height=60&lines=Hi%2C+I+am+Joy+Bordhen;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&height=40&lines=Hi%2C+I+am+Joy+Bordhen)](https://git.io/typing-svg)
+<h3 align="start">A software engineer at Onethread limited</h3>
 
-About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/jbordhen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jbordhen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joy-bordhen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbordhen" height="30" width="40" /></a>
+<a href="https://codesandbox.com/jbordhen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jbordhen" height="30" width="40" /></a>
+</p>
 
 ```typescript
 const jbordhen = {
@@ -8,6 +14,13 @@ const jbordhen = {
   name: 'Joy Bordhen',
   languages: [Typescript, Javascript, HTML, CSS, Markdown, Java],
   tools: [React, Solidjs, Nextjs, Nodejs, Redux, Styled-Components, Redux-saga],
-  interests:['Programming', 'Reading articles', 'Video games', 'Movie', 'Tv series']
+  interests:['Programming', 'Reading articles', 'Video games', 'Movie', 'Tv series'],
+  currentlyLearning: ['Website optimisation techniques', 'Rust', 'Tauri'],
+  askMeAbout: ['React', 'Redux', 'Redux-saga', 'Styled-component'],
+  occupation: 'Software Engineer at Onethread Limited',
 }
 ```
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbordhen&count_private=true) 
+![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jbordhen)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbordhen&layout=compact)](https://github.com/jbordhen/github-readme-stats)
