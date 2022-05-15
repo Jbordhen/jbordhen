@@ -20,7 +20,7 @@ const jbordhen = {
   occupation: 'Software Engineer at Onethread Limited',
 }
 ```
-
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbordhen&layout=compact)](https://github.com/jbordhen/github-readme-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbordhen&count_private=true) 
 ![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jbordhen)
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbordhen&layout=compact)](https://github.com/jbordhen/github-readme-stats)
+
