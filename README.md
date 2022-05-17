@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&height=40&lines=Hi%2C+I+am+Joy+Bordhen)](https://git.io/typing-svg)
-<h3 align="start">A software engineer at Onethread limited</h3>
+<h3 align="start">Software Engineer at Onethread limited</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +20,9 @@ const jbordhen = {
   occupation: 'Software Engineer at Onethread Limited',
 }
 ```
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbordhen&layout=compact)](https://github.com/jbordhen/github-readme-stats)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbordhen&count_private=true) 
+<!-- [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbordhen&layout=compact)](https://github.com/jbordhen/github-readme-stats) -->
+![](https://raw.githubusercontent.com/jbordhen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/jbordhen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbordhen&count_private=true)  -->
 ![My Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jbordhen)
 
