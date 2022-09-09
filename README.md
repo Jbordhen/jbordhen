@@ -18,6 +18,7 @@ const jbordhen = {
     'React',
     'Solidjs',
     'Nextjs',
+    'Astro',
     'Nodejs',
     'Redux',
     'Styled-Components',
