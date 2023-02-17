@@ -31,11 +31,7 @@ const jbordhen = {
     'Movie',
     'Tv series',
   ],
-  currentlyLearning: [
-    'Website optimisation techniques',
-    'Rust',
-    'Offline-first Databases and how to implement them',
-  ],
+  currentlyLearning: ['Website optimisation techniques', 'Rust', 'Go'],
   askMeAbout: ['React', 'Redux', 'Redux-saga', 'Styled-component'],
   occupation: 'Software Engineer at Onethread Limited',
 }
