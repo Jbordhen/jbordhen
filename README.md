@@ -40,7 +40,7 @@ const jbordhen = {
 <!-- [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbordhen&layout=compact)](https://github.com/jbordhen/github-readme-stats) -->
 
 ![](https://raw.githubusercontent.com/jbordhen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jbordhen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jbordhen/github-readme-stats#gh-dark-mode-only)
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbordhen&count_private=true)  -->
 
