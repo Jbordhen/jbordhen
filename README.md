@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&height=30&lines=Hi%2C+I+am+Joy+Bordhen)](https://git.io/typing-svg)
 
-<h3 align="start">Software Engineer at Onethread limited</h3>
+<h3 align="start">Software Integration Engineer at SuperAnnotate</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
